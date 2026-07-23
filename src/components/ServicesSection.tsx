@@ -132,7 +132,7 @@ export function ServicesSection({
       ref={sectionRef}
       id="services"
       className="relative"
-      style={{ height: `${Math.max(steps * 68 + 50, 320)}vh` }}
+      style={{ height: `${Math.max(steps * 105 + 80, 420)}vh` }}
     >
       <div className="sticky top-0 flex min-h-[100svh] flex-col justify-center py-20 md:py-24">
         <div className="container-vv">
