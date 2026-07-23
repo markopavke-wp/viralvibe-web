@@ -27,11 +27,22 @@ function StackCard({
 }) {
   // n cards need (n - 1) transitions — using `total` skips/clips the last card
   const steps = Math.max(total - 1, 1);
-  const enterStart = index === 0 ? 0 : (index - 1) / steps;
-  const enterEnd = index === 0 ? 0 : index / steps;
+  // First part of each step = empty scroll (card stays), then transition
+  const hold = 0.58;
   const isLast = index === total - 1;
-  const exitStart = isLast ? 1 : index / steps;
-  const exitEnd = isLast ? 1 : (index + 1) / steps;
+
+  const segStart = index === 0 ? 0 : (index - 1) / steps;
+  const segEnd = index === 0 ? 0 : index / steps;
+  const enterStart =
+    index === 0 ? 0 : segStart + (segEnd - segStart) * hold;
+  const enterEnd = index === 0 ? 0 : segEnd;
+
+  const exitSegStart = index / steps;
+  const exitSegEnd = (index + 1) / steps;
+  const exitStart = isLast
+    ? 1
+    : exitSegStart + (exitSegEnd - exitSegStart) * hold;
+  const exitEnd = isLast ? 1 : exitSegEnd;
 
   const y = useTransform(
     progress,
@@ -45,17 +56,17 @@ function StackCard({
       ? [0, 1]
       : [
           exitStart,
-          exitStart + (exitEnd - exitStart) * 0.15,
-          exitStart + (exitEnd - exitStart) * 0.28,
+          exitStart + (exitEnd - exitStart) * 0.2,
+          exitStart + (exitEnd - exitStart) * 0.4,
           exitEnd,
         ],
-    isLast ? [1, 1] : [1, 0.2, 0, 0]
+    isLast ? [1, 1] : [1, 0.15, 0, 0]
   );
   const scale = useTransform(
     progress,
     isLast
       ? [0, 1]
-      : [exitStart, exitStart + (exitEnd - exitStart) * 0.25, exitEnd],
+      : [exitStart, exitStart + (exitEnd - exitStart) * 0.3, exitEnd],
     isLast ? [1, 1] : [1, 0.97, 0.95]
   );
 
