@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "title": "Viral Vibe — Digital Agency",
+    "description": "Digital agency from Niš — websites, web apps, e-commerce, social media, video, SEO and ads."
+  },
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "services": "Services",
+    "works": "Works",
+    "contact": "Contact",
+    "blog": "Blog",
+    "about": "About",
+    "cases": "Case studies"
+  },
+  "hero": {
+    "eyebrow": "Welcome",
+    "title": "VIRAL",
+    "titleAccent": "VIBE",
+    "subtitle": "Websites, stores, content and ads that make your brand impossible to ignore."
+  },
+  "services": {
+    "title": "Services",
+    "cta": "Start a project",
+    "items": [
+      {
+        "id": "01",
+        "title": "Website Design & Development",
+        "body": "High-performing websites built to look sharp, load fast and convert visitors into clients — from presentation sites to custom platforms.",
+        "points": [
+          "Responsive design for mobile, tablet and desktop",
+          "Clean architecture with strong SEO foundations",
+          "Brand-aligned UI, typography and visuals",
+          "Domain, hosting and launch support"
+        ]
+      },
+      {
+        "id": "02",
+        "title": "Custom Web Applications",
+        "body": "Business tools built around your workflow — dashboards, client portals, booking systems and internal apps that go beyond a standard website.",
+        "points": [
+          "Custom logic for your processes and users",
+          "Secure accounts, roles and data flows",
+          "Integrations with tools you already use",
+          "Scalable architecture ready to grow"
+        ]
+      },
+      {
+        "id": "03",
+        "title": "E-commerce Stores",
+        "body": "Online stores designed for real sales — clear product flows, smooth checkout and setups that scale with your business.",
+        "points": [
+          "Product catalog, cart and checkout",
+          "Payment methods integration",
+          "Conversion-focused product pages",
+          "Training so you can manage the store yourself"
+        ]
+      },
+      {
+        "id": "04",
+        "title": "Social Media Management",
+        "body": "Consistent content, community and strategy that grow reach and keep your brand active where your audience already scrolls.",
+        "points": [
+          "Content planning and publishing calendar",
+          "Creative posts tailored to your brand voice",
+          "Engagement and community management",
+          "Performance tracking and monthly improvements"
+        ]
+      },
+      {
+        "id": "05",
+        "title": "Video Production & Editing",
+        "body": "Reels, ads and brand videos edited to stop the scroll — clear storytelling, strong pacing and formats built for social and web.",
+        "points": [
+          "Short-form video for Instagram, TikTok and ads",
+          "Promo and brand storytelling edits",
+          "Captions, motion and sound polish",
+          "Formats optimized for each platform"
+        ]
+      },
+      {
+        "id": "06",
+        "title": "SEO & Paid Ads",
+        "body": "Get found and get leads — organic search optimization plus paid campaigns that put your offer in front of the right people.",
+        "points": [
+          "On-page SEO, keywords and technical basics",
+          "Google Ads and Meta Ads setup",
+          "Landing page alignment for better conversion",
+          "Clear reporting on traffic and results"
+        ]
+      },
+      {
+        "id": "07",
+        "title": "Brand Copy & Content",
+        "body": "Words that sell — website copy, ads and social captions written to clarify your offer and push people to take action.",
+        "points": [
+          "Website and landing page copy",
+          "Ad headlines and campaign messaging",
+          "Social captions and content scripts",
+          "Tone of voice aligned with your brand"
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "view": "View work",
+    "intro": "From sharp websites to impactful campaigns — explore selected projects that helped brands stand out."
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Flexible plans in 3, 6 or 12 installments.",
+    "cta": "Contact",
+    "learnMore": "Learn more about pricing",
+    "plans": [
+      {
+        "id": "static-monthly",
+        "label": "Static Website (Monthly)",
+        "price": "€65",
+        "period": "/ month",
+        "desc": "Flexible payment plans: 12 installments €65/month · 6 installments €125 every 2 months · 3 installments €220 every 4 months. All plans are adjustable depending on your specific requirements.",
+        "features": [
+          "Modern, responsive design optimized for all devices (mobile, tablet, desktop)",
+          "Built with Webflow for smooth editing and publishing",
+          "Customized style according to your branding (colors, fonts, images)",
+          "24/7 Support and updating",
+          "Basic SEO setup: Titles, meta descriptions, keywords, and image alt text",
+          "Optimized images and code for fast loading times",
+          "Advanced SEO available upon request (keyword research, competitor analysis)",
+          "Guidance and training for managing your website if needed",
+          "5–8 pages included",
+          "Google Search Console Integration",
+          "Domain & Hosting registration and management",
+          "Collaborative Planning & Consultation"
+        ]
+      },
+      {
+        "id": "static-yearly",
+        "label": "Static Website (Yearly)",
+        "price": "€650",
+        "period": "/ one time",
+        "desc": "Annual Plan: €650 one-time payment for a full year. Ideal if you want a hassle-free experience with no monthly payments.",
+        "features": [
+          "Modern, responsive design optimized for all devices (mobile, tablet, desktop)",
+          "Built with Webflow for smooth editing and publishing",
+          "Customized style according to your branding (colors, fonts, images)",
+          "24/7 Support and updating",
+          "Basic SEO setup: Titles, meta descriptions, keywords, and image alt text",
+          "Optimized images and code for fast loading times",
+          "Advanced SEO available upon request (keyword research, competitor analysis)",
+          "Guidance and training for managing your website if needed",
+          "5–8 pages included",
+          "Google Search Console Integration",
+          "Domain & Hosting registration and management",
+          "Collaborative Planning & Consultation"
+        ]
+      },
+      {
+        "id": "ecom-monthly",
+        "label": "E-commerce (Monthly)",
+        "price": "€135",
+        "period": "/ month",
+        "desc": "12× €135/month · 6× €250 every 2 months · 3× €455 every 4 months. Important: a 2% transaction fee applies to each sale made through your online store.",
+        "features": [
+          "Modern, responsive design optimized for all devices (mobile, tablet, desktop)",
+          "Built with Webflow for smooth editing and publishing",
+          "Customized style according to your branding (colors, fonts, images)",
+          "24/7 Support and updating",
+          "Basic SEO setup: Titles, meta descriptions, keywords, and image alt text",
+          "Optimized images and code for fast loading times",
+          "Advanced SEO available upon request (keyword research, competitor analysis)",
+          "Guidance and training for managing your website if needed",
+          "5–8 pages included",
+          "Google Search Console Integration",
+          "Domain & Hosting registration and management",
+          "Collaborative Planning & Consultation",
+          "Payment Methods"
+        ]
+      },
+      {
+        "id": "ecom-yearly",
+        "label": "E-commerce (Yearly)",
+        "price": "€1360",
+        "period": "/ one time",
+        "desc": "Annual Plan: €1360 one-time for a full year. Important: a 2% transaction fee applies to each sale made through your online store.",
+        "features": [
+          "Modern, responsive design optimized for all devices (mobile, tablet, desktop)",
+          "Built with Webflow for smooth editing and publishing",
+          "Customized style according to your branding (colors, fonts, images)",
+          "24/7 Support and updating",
+          "Basic SEO setup: Titles, meta descriptions, keywords, and image alt text",
+          "Optimized images and code for fast loading times",
+          "Advanced SEO available upon request (keyword research, competitor analysis)",
+          "Guidance and training for managing your website if needed",
+          "5–8 pages included",
+          "Google Search Console Integration",
+          "Domain & Hosting registration and management",
+          "Collaborative Planning & Consultation",
+          "Payment Methods"
+        ]
+      },
+      {
+        "id": "ecom0-monthly",
+        "label": "E-commerce (Monthly) 0% fee",
+        "price": "€185",
+        "period": "/ month",
+        "desc": "12× €185/month · 6× €350 every 2 months · 3× €655 every 4 months. No per-sale transaction fee.",
+        "features": [
+          "Modern, responsive design optimized for all devices (mobile, tablet, desktop)",
+          "Built with Webflow for smooth editing and publishing",
+          "Customized style according to your branding (colors, fonts, images)",
+          "24/7 Support and updating",
+          "Basic SEO setup: Titles, meta descriptions, keywords, and image alt text",
+          "Optimized images and code for fast loading times",
+          "Advanced SEO available upon request (keyword research, competitor analysis)",
+          "Guidance and training for managing your website if needed",
+          "5–8 pages included",
+          "Google Search Console Integration",
+          "Domain & Hosting registration and management",
+          "Collaborative Planning & Consultation",
+          "Payment Methods"
+        ]
+      },
+      {
+        "id": "ecom0-yearly",
+        "label": "E-commerce (Yearly) 0% fee",
+        "price": "€1900",
+        "period": "/ one time",
+        "desc": "Annual Plan: €1900 one-time payment for a full year. No per-sale transaction fee.",
+        "features": [
+          "Modern, responsive design optimized for all devices (mobile, tablet, desktop)",
+          "Built with Webflow for smooth editing and publishing",
+          "Customized style according to your branding (colors, fonts, images)",
+          "24/7 Support and updating",
+          "Basic SEO setup: Titles, meta descriptions, keywords, and image alt text",
+          "Optimized images and code for fast loading times",
+          "Advanced SEO available upon request (keyword research, competitor analysis)",
+          "Guidance and training for managing your website if needed",
+          "5–8 pages included",
+          "Google Search Console Integration",
+          "Domain & Hosting registration and management",
+          "Collaborative Planning & Consultation",
+          "Payment Methods"
+        ]
+      }
+    ],
+    "scrollHint": "Swipe to see all plans"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Tell us about your project — we’ll get back quickly.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "phones": "Call us",
+    "success": "Thanks! We’ll reply soon.",
+    "getIn": "Get in",
+    "touch": "touch",
+    "phone": "Phone Number",
+    "phonePlaceholder": "(123) - 456 - 789",
+    "namePlaceholder": "e.g. John Doe",
+    "emailPlaceholder": "e.g. johndoe@email.com",
+    "messagePlaceholder": "Write your message here",
+    "cardsTitle": "Our team"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Digital agency from Niš"
+  },
+  "common": {
+    "scroll": "Scroll"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Insights on websites, growth and digital strategy from the Viral Vibe team.",
+    "readMore": "Read article",
+    "back": "Back to blog",
+    "empty": "New articles coming soon."
+  },
+  "cta": {
+    "title": "Ready to grow your brand?",
+    "subtitle": "Tell us about your project — we’ll propose the next step in 24 hours.",
+    "primary": "Book a free call",
+    "secondary": "See pricing"
+  },
+  "about": {
+    "title": "About us",
+    "eyebrow": "Digital agency from Niš",
+    "lead": "Viral Vibe is a two-year-old digital agency from Niš with satisfied clients — we build websites, web apps, content and growth systems that look sharp and convert.",
+    "body": [
+      "For two years we’ve helped brands from Niš and beyond get a clearer online presence, more inquiries and stronger sales through websites, marketing and technical execution.",
+      "We combine design, development and marketing in one process — so you don’t jump between freelancers and half-finished work.",
+      "Our focus is measurable: Google visibility, trust, inquiries and conversion."
+    ],
+    "teamTitle": "The team",
+    "team": [
+      {
+        "role": "Strategy & marketing",
+        "title": "Graduate engineer of communicology & marketing specialist",
+        "text": "Brand positioning, messaging, campaigns and growth — so the digital presence actually sells."
+      },
+      {
+        "role": "Technology & product",
+        "title": "Graduate engineer of electrical engineering and computing",
+        "text": "Websites, web apps and technical foundations built to be fast, stable and ready to scale."
+      }
+    ],
+    "stats": [
+      {
+        "value": "7+",
+        "label": "Services under one roof"
+      },
+      {
+        "value": "Niš",
+        "label": "Based locally"
+      },
+      {
+        "value": "100%",
+        "label": "Client-first delivery"
+      }
+    ]
+  },
+  "cases": {
+    "title": "Case studies",
+    "subtitle": "Selected projects with the challenge, solution and outcomes.",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "results": "Results",
+    "visit": "Visit live site",
+    "read": "View case study",
+    "back": "Back to case studies",
+    "industry": "Industry"
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "What services does your agency offer?",
+        "a": "We provide websites, custom web apps, e-commerce, social media management, video editing, SEO, paid ads and brand copy — end to end."
+      },
+      {
+        "q": "How can I start working with your agency?",
+        "a": "Contact us by phone or form. After a short briefing we propose a tailored plan, timeline and budget for your project."
+      },
+      {
+        "q": "How much do your services cost?",
+        "a": "We offer flexible packages for websites and e-commerce, including monthly and yearly options. Custom work is scoped after the briefing."
+      },
+      {
+        "q": "How long does a typical project take?",
+        "a": "A presentation site often takes a few weeks. E-commerce and web apps depend on complexity. We always share a clear timeline before kickoff."
+      },
+      {
+        "q": "Do you work with specific industries only?",
+        "a": "No. We work with small and larger businesses across industries — from construction and healthcare to retail and services."
+      }
+    ]
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms & Conditions",
+    "updated": "Last updated",
+    "privacy": [
+      {
+        "h": "Who we are",
+        "p": "Viral Vibe is a digital agency based in Niš, Serbia. This policy explains how we handle information collected through our website."
+      },
+      {
+        "h": "Information we collect",
+        "p": "We may collect your name, email, phone number and message content when you submit our contact form, as well as basic technical data such as browser type and pages visited."
+      },
+      {
+        "h": "How we use information",
+        "p": "We use submitted details to respond to inquiries, improve our services and operate the website. We do not sell personal data."
+      },
+      {
+        "h": "Cookies & analytics",
+        "p": "The site may use essential cookies and analytics tools to understand traffic and improve user experience."
+      },
+      {
+        "h": "Your rights",
+        "p": "You may request access, correction or deletion of your personal data by contacting us."
+      },
+      {
+        "h": "Contact",
+        "p": "For privacy requests, contact us via the form on this website or by phone listed on the Contact page."
+      }
+    ],
+    "terms": [
+      {
+        "h": "Agreement",
+        "p": "By using viralvibe.rs you agree to these terms. If you do not agree, please do not use the site."
+      },
+      {
+        "h": "Services",
+        "p": "Project scopes, timelines and pricing are defined in separate agreements or proposals before work begins."
+      },
+      {
+        "h": "Intellectual property",
+        "p": "Website content, branding and materials on this site belong to Viral Vibe unless stated otherwise. Client project IP is handled per contract."
+      },
+      {
+        "h": "Limitation of liability",
+        "p": "We strive for accuracy, but we are not liable for indirect damages arising from use of this website."
+      },
+      {
+        "h": "Changes",
+        "p": "We may update these terms periodically. Continued use of the site means you accept the updated terms."
+      },
+      {
+        "h": "Governing law",
+        "p": "These terms are governed by the laws of the Republic of Serbia."
+      }
+    ]
+  },
+  "seo": {
+    "keywords": "digital agency Niš, website development Serbia, e-commerce, SEO, social media, web applications, Viral Vibe"
+  }
+}

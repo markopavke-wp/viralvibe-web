@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "title": "Viral Vibe — Digitalna agencija",
+    "description": "Digitalna agencija iz Niša — sajtovi, web aplikacije, e-commerce, društvene mreže, video, SEO i oglasi."
+  },
+  "nav": {
+    "home": "Početna",
+    "pricing": "Cene",
+    "services": "Usluge",
+    "works": "Radovi",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "about": "O nama",
+    "cases": "Studije slučaja"
+  },
+  "hero": {
+    "eyebrow": "Dobro došli",
+    "title": "VIRAL",
+    "titleAccent": "VIBE",
+    "subtitle": "Sajtovi, prodavnice, sadržaj i oglasi zbog kojih se vaš brend pamti."
+  },
+  "services": {
+    "title": "Usluge",
+    "cta": "Pokreni projekat",
+    "items": [
+      {
+        "id": "01",
+        "title": "Dizajn i izrada sajtova",
+        "body": "Sajtovi koji izgledaju moderno, brzo se učitavaju i pretvaraju posetioce u klijente — od prezentacionih do custom platformi.",
+        "points": [
+          "Responzivan dizajn za telefon, tablet i desktop",
+          "Čista arhitektura sa jakom SEO osnovom",
+          "UI, tipografija i vizuali po brendu",
+          "Podrška za domen, hosting i lansiranje"
+        ]
+      },
+      {
+        "id": "02",
+        "title": "Custom web aplikacije",
+        "body": "Poslovni alati građeni oko vašeg procesa — dashboardi, klijentski portali, rezervacije i interne aplikacije koje idu dalje od klasičnog sajta.",
+        "points": [
+          "Prilagođena logika za vaše procese i korisnike",
+          "Sigurni nalozi, uloge i tokovi podataka",
+          "Integracije sa alatima koje već koristite",
+          "Skalabilna arhitektura spremna za rast"
+        ]
+      },
+      {
+        "id": "03",
+        "title": "E-commerce prodavnice",
+        "body": "Online prodavnice napravljene za prodaju — jasan tok proizvoda, glatki checkout i sistem koji raste sa vama.",
+        "points": [
+          "Katalog, korpa i checkout",
+          "Integracija načina plaćanja",
+          "Stranice proizvoda usmerene na konverziju",
+          "Obuka za samostalno upravljanje prodavnicom"
+        ]
+      },
+      {
+        "id": "04",
+        "title": "Upravljanje društvenim mrežama",
+        "body": "Konzistentan sadržaj, zajednica i strategija koji grade doseg i drže brend aktivnim tamo gde publika već skroluje.",
+        "points": [
+          "Plan sadržaja i kalendar objavljivanja",
+          "Kreativni postovi u glasu vašeg brenda",
+          "Angažman i upravljanje zajednicom",
+          "Praćenje rezultata i mesečna poboljšanja"
+        ]
+      },
+      {
+        "id": "05",
+        "title": "Video produkcija i montaža",
+        "body": "Reels, oglasi i brend video montirani da zaustave skrol — jasan storytelling, ritam i formati za mreže i web.",
+        "points": [
+          "Kratki video za Instagram, TikTok i oglase",
+          "Promo i storytelling montaža",
+          "Titlovi, motion i zvučna dorada",
+          "Formati optimizovani po platformi"
+        ]
+      },
+      {
+        "id": "06",
+        "title": "SEO i plaćeni oglasi",
+        "body": "Budite pronađeni i dobijajte upite — organska SEO optimizacija i plaćene kampanje koje stavljaju ponudu pred prave ljude.",
+        "points": [
+          "On-page SEO, ključne reči i tehničke osnove",
+          "Podešavanje Google Ads i Meta Ads",
+          "Usklađivanje landing stranica za bolju konverziju",
+          "Jasni izveštaji o saobraćaju i rezultatima"
+        ]
+      },
+      {
+        "id": "07",
+        "title": "Brend copy i sadržaj",
+        "body": "Reči koje prodaju — tekstovi za sajt, oglase i mreže pisani da pojasne ponudu i pokrenu akciju.",
+        "points": [
+          "Copy za sajt i landing stranice",
+          "Naslovi i poruke za kampanje",
+          "Opisi i skripte za društvene mreže",
+          "Ton komunikacije usklađen sa brendom"
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "view": "Pogledaj",
+    "intro": "Od oštrih sajtova do jakih kampanja — izabrani radovi koji su pomogli brendovima da se istaknu."
+  },
+  "pricing": {
+    "title": "Cenovnik",
+    "subtitle": "Fleksibilne opcije plaćanja u 3, 6 ili 12 rata.",
+    "cta": "Kontakt",
+    "learnMore": "Saznaj više o cenama",
+    "plans": [
+      {
+        "id": "static-monthly",
+        "label": "Statični sajt (mesečno)",
+        "price": "€65",
+        "period": "/ mesečno",
+        "desc": "Fleksibilni planovi: 12 rata €65 mesečno · 6 rata €125 na svaka 2 meseca · 3 rate €220 na svaka 4 meseca. Svi planovi su prilagodljivi vašim zahtevima.",
+        "features": [
+          "Moderan, responzivan dizajn optimizovan za sve uređaje (mobilni, tablet, desktop)",
+          "Izrađeno u Webflow-u za lako uređivanje i objavljivanje",
+          "Prilagođeni stil u skladu sa vašim brendom (boje, fontovi, slike)",
+          "24/7 Podrška i ažuriranje",
+          "Osnovna SEO optimizacija: Naslovi, meta opisi, ključne reči i alt tekst za slike",
+          "Optimizovane slike i kod za brzo učitavanje",
+          "Napredna SEO optimizacija dostupna na zahtev: Istraživanje ključnih reči, analiza konkurencije",
+          "Vođenje i obuka za upravljanje vašim sajtom ako je potrebno",
+          "5–8 stranica uključeno",
+          "Integracija sa Google Search Console-om",
+          "Registracija i upravljanje domenom i hostingom",
+          "Zajedničko planiranje i konsultacije"
+        ]
+      },
+      {
+        "id": "static-yearly",
+        "label": "Statični sajt (godišnje)",
+        "price": "€650",
+        "period": "/ jednokratno",
+        "desc": "Godišnji plan: €650 jednokratno za celu godinu. Idealno ako želite bezbrižno iskustvo bez mesečnih uplata.",
+        "features": [
+          "Moderan, responzivan dizajn optimizovan za sve uređaje (mobilni, tablet, desktop)",
+          "Izrađeno u Webflow-u za lako uređivanje i objavljivanje",
+          "Prilagođeni stil u skladu sa vašim brendom (boje, fontovi, slike)",
+          "24/7 Podrška i ažuriranje",
+          "Osnovna SEO optimizacija: Naslovi, meta opisi, ključne reči i alt tekst za slike",
+          "Optimizovane slike i kod za brzo učitavanje",
+          "Napredna SEO optimizacija dostupna na zahtev: Istraživanje ključnih reči, analiza konkurencije",
+          "Vođenje i obuka za upravljanje vašim sajtom ako je potrebno",
+          "5–8 stranica uključeno",
+          "Integracija sa Google Search Console-om",
+          "Registracija i upravljanje domenom i hostingom",
+          "Zajedničko planiranje i konsultacije"
+        ]
+      },
+      {
+        "id": "ecom-monthly",
+        "label": "E-commerce (mesečno)",
+        "price": "€135",
+        "period": "/ mesečno",
+        "desc": "12× €135 mesečno · 6× €250 na svaka 2 meseca · 3× €455 na svaka 4 meseca. Važno: naplaćuje se dodatna provizija od 2% za svaku prodaju putem online prodavnice.",
+        "features": [
+          "Moderan, responzivan dizajn optimizovan za sve uređaje (mobilni, tablet, desktop)",
+          "Izrađeno u Webflow-u za lako uređivanje i objavljivanje",
+          "Prilagođeni stil u skladu sa vašim brendom (boje, fontovi, slike)",
+          "24/7 Podrška i ažuriranje",
+          "Osnovna SEO optimizacija: Naslovi, meta opisi, ključne reči i alt tekst za slike",
+          "Optimizovane slike i kod za brzo učitavanje",
+          "Napredna SEO optimizacija dostupna na zahtev: Istraživanje ključnih reči, analiza konkurencije",
+          "Vođenje i obuka za upravljanje vašim sajtom ako je potrebno",
+          "5–8 stranica uključeno",
+          "Integracija sa Google Search Console-om",
+          "Registracija i upravljanje domenom i hostingom",
+          "Zajedničko planiranje i konsultacije",
+          "Načini plaćanja"
+        ]
+      },
+      {
+        "id": "ecom-yearly",
+        "label": "E-commerce (godišnje)",
+        "price": "€1360",
+        "period": "/ jednokratno",
+        "desc": "Godišnji plan: €1360 jednokratno za celu godinu. Važno: naplaćuje se dodatna provizija od 2% za svaku prodaju putem online prodavnice.",
+        "features": [
+          "Moderan, responzivan dizajn optimizovan za sve uređaje (mobilni, tablet, desktop)",
+          "Izrađeno u Webflow-u za lako uređivanje i objavljivanje",
+          "Prilagođeni stil u skladu sa vašim brendom (boje, fontovi, slike)",
+          "24/7 Podrška i ažuriranje",
+          "Osnovna SEO optimizacija: Naslovi, meta opisi, ključne reči i alt tekst za slike",
+          "Optimizovane slike i kod za brzo učitavanje",
+          "Napredna SEO optimizacija dostupna na zahtev: Istraživanje ključnih reči, analiza konkurencije",
+          "Vođenje i obuka za upravljanje vašim sajtom ako je potrebno",
+          "5–8 stranica uključeno",
+          "Integracija sa Google Search Console-om",
+          "Registracija i upravljanje domenom i hostingom",
+          "Zajedničko planiranje i konsultacije",
+          "Načini plaćanja"
+        ]
+      },
+      {
+        "id": "ecom0-monthly",
+        "label": "E-commerce (mesečno) 0% provizije",
+        "price": "€185",
+        "period": "/ mesečno",
+        "desc": "12× €185 mesečno · 6× €350 na svaka 2 meseca · 3× €655 na svaka 4 meseca. Bez provizije po prodaji.",
+        "features": [
+          "Moderan, responzivan dizajn optimizovan za sve uređaje (mobilni, tablet, desktop)",
+          "Izrađeno u Webflow-u za lako uređivanje i objavljivanje",
+          "Prilagođeni stil u skladu sa vašim brendom (boje, fontovi, slike)",
+          "24/7 Podrška i ažuriranje",
+          "Osnovna SEO optimizacija: Naslovi, meta opisi, ključne reči i alt tekst za slike",
+          "Optimizovane slike i kod za brzo učitavanje",
+          "Napredna SEO optimizacija dostupna na zahtev: Istraživanje ključnih reči, analiza konkurencije",
+          "Vođenje i obuka za upravljanje vašim sajtom ako je potrebno",
+          "5–8 stranica uključeno",
+          "Integracija sa Google Search Console-om",
+          "Registracija i upravljanje domenom i hostingom",
+          "Zajedničko planiranje i konsultacije",
+          "Načini plaćanja"
+        ]
+      },
+      {
+        "id": "ecom0-yearly",
+        "label": "E-commerce (godišnje) 0% provizije",
+        "price": "€1900",
+        "period": "/ jednokratno",
+        "desc": "Godišnji plan: €1900 jednokratno za celu godinu. Bez provizije po prodaji.",
+        "features": [
+          "Moderan, responzivan dizajn optimizovan za sve uređaje (mobilni, tablet, desktop)",
+          "Izrađeno u Webflow-u za lako uređivanje i objavljivanje",
+          "Prilagođeni stil u skladu sa vašim brendom (boje, fontovi, slike)",
+          "24/7 Podrška i ažuriranje",
+          "Osnovna SEO optimizacija: Naslovi, meta opisi, ključne reči i alt tekst za slike",
+          "Optimizovane slike i kod za brzo učitavanje",
+          "Napredna SEO optimizacija dostupna na zahtev: Istraživanje ključnih reči, analiza konkurencije",
+          "Vođenje i obuka za upravljanje vašim sajtom ako je potrebno",
+          "5–8 stranica uključeno",
+          "Integracija sa Google Search Console-om",
+          "Registracija i upravljanje domenom i hostingom",
+          "Zajedničko planiranje i konsultacije",
+          "Načini plaćanja"
+        ]
+      }
+    ],
+    "scrollHint": "Prevucite da vidite sve planove"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Recite nam o projektu — javljamo se brzo.",
+    "name": "Ime",
+    "email": "Email",
+    "message": "Poruka",
+    "send": "Pošalji poruku",
+    "phones": "Pozovite nas",
+    "success": "Hvala! Javićemo se uskoro.",
+    "getIn": "Ostanimo u",
+    "touch": "kontaktu",
+    "phone": "Broj telefona",
+    "phonePlaceholder": "(123) - 456 - 789",
+    "namePlaceholder": "npr. Petar Petrović",
+    "emailPlaceholder": "npr. petar@email.com",
+    "messagePlaceholder": "Napišite poruku ovde",
+    "cardsTitle": "Naš tim"
+  },
+  "footer": {
+    "rights": "Sva prava zadržana.",
+    "tagline": "Digitalna agencija iz Niša"
+  },
+  "common": {
+    "scroll": "Skroluj"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Saveti o sajtovima, rastu i digitalnoj strategiji od tima Viral Vibe.",
+    "readMore": "Pročitaj članak",
+    "back": "Nazad na blog",
+    "empty": "Novi članci stižu uskoro."
+  },
+  "cta": {
+    "title": "Spremni da podignete brend?",
+    "subtitle": "Recite nam o projektu — predlog sledećeg koraka šaljemo u roku od 24h.",
+    "primary": "Zakaži besplatan razgovor",
+    "secondary": "Pogledaj cene"
+  },
+  "about": {
+    "title": "O nama",
+    "eyebrow": "Digitalna agencija iz Niša",
+    "lead": "Viral Vibe je digitalna agencija iz Niša koja radi dve godine, sa zadovoljnim klijentima — gradimo sajtove, web aplikacije, sadržaj i sisteme rasta koji izgledaju oštro i konvertuju.",
+    "body": [
+      "Već dve godine pomažemo brendovima iz Niša i šire da dobiju jasniji online nastup, više upita i jaču prodaju kroz sajtove, marketing i tehničku izvedbu.",
+      "Spajamo dizajn, development i marketing u jedan proces — da ne skačete između freelancera i polovičnih rešenja.",
+      "Fokus nam je merljiv: Google vidljivost, poverenje, upiti i konverzija."
+    ],
+    "teamTitle": "Tim",
+    "team": [
+      {
+        "role": "Strategija i marketing",
+        "title": "Diplomirani inženjer komunikologije i marketing stručnjak",
+        "text": "Pozicioniranje brenda, poruke, kampanje i rast — da digitalni nastup zaista prodaje."
+      },
+      {
+        "role": "Tehnologija i proizvod",
+        "title": "Diplomirani inženjer elektrotehnike i računarstva",
+        "text": "Sajtovi, web aplikacije i tehnički temelj koji su brzi, stabilni i spremni za rast."
+      }
+    ],
+    "stats": [
+      {
+        "value": "7+",
+        "label": "Usluga pod jednim krovom"
+      },
+      {
+        "value": "Niš",
+        "label": "Lokalno sedište"
+      },
+      {
+        "value": "100%",
+        "label": "Fokus na klijenta"
+      }
+    ]
+  },
+  "cases": {
+    "title": "Studije slučaja",
+    "subtitle": "Izabrani projekti sa izazovom, rešenjem i ishodima.",
+    "challenge": "Izazov",
+    "solution": "Rešenje",
+    "results": "Rezultati",
+    "visit": "Otvori sajt",
+    "read": "Pogledaj studiju",
+    "back": "Nazad na studije",
+    "industry": "Industrija"
+  },
+  "faq": {
+    "title": "Česta pitanja",
+    "items": [
+      {
+        "q": "Koje usluge nudi vaša agencija?",
+        "a": "Nudimo sajtove, custom web aplikacije, e-commerce, upravljanje mrežama, video montažu, SEO, plaćene oglase i brend copy — od ideje do isporuke."
+      },
+      {
+        "q": "Kako mogu započeti saradnju sa vašom agencijom?",
+        "a": "Kontaktirajte nas telefonom ili formom. Posle kratkog briefinga predlažemo plan, rok i budžet prilagođen projektu."
+      },
+      {
+        "q": "Koliko koštaju vaše usluge?",
+        "a": "Imamo fleksibilne pakete za sajtove i e-commerce (mesečno i godišnje). Custom projekti se definišu posle briefinga."
+      },
+      {
+        "q": "Koliko traje prosečan projekat?",
+        "a": "Prezentacioni sajt često traje nekoliko nedelja. E-commerce i web aplikacije zavise od kompleksnosti. Rok dogovaramo jasno pre početka."
+      },
+      {
+        "q": "Da li nudite usluge samo za određene industrije?",
+        "a": "Ne. Radimo sa malim i većim brendovima iz različitih industrija — od građevine i zdravstva do retaila i usluga."
+      }
+    ]
+  },
+  "legal": {
+    "privacyTitle": "Politika privatnosti",
+    "termsTitle": "Uslovi korišćenja",
+    "updated": "Poslednje ažuriranje",
+    "privacy": [
+      {
+        "h": "Ko smo mi",
+        "p": "Viral Vibe je digitalna agencija sa sedištem u Nišu. Ova politika objašnjava kako obrađujemo podatke prikupljene putem sajta."
+      },
+      {
+        "h": "Koje podatke prikupljamo",
+        "p": "Možemo prikupiti ime, email, telefon i sadržaj poruke kada pošaljete kontakt formu, kao i osnovne tehničke podatke (pregledač, posećene stranice)."
+      },
+      {
+        "h": "Kako koristimo podatke",
+        "p": "Podatke koristimo da odgovorimo na upite, unapredimo usluge i održavamo sajt. Ne prodajemo lične podatke."
+      },
+      {
+        "h": "Kolačići i analitika",
+        "p": "Sajt može koristiti neophodne kolačiće i analitiku radi razumevanja saobraćaja i poboljšanja iskustva."
+      },
+      {
+        "h": "Vaša prava",
+        "p": "Možete zatražiti uvid, ispravku ili brisanje podataka kontaktiranjem nas."
+      },
+      {
+        "h": "Kontakt",
+        "p": "Za zahteve vezane za privatnost, kontaktirajte nas formom na sajtu ili telefonom sa stranice Kontakt."
+      }
+    ],
+    "terms": [
+      {
+        "h": "Saglasnost",
+        "p": "Korišćenjem viralvibe.rs prihvatate ove uslove. Ako se ne slažete, molimo vas da ne koristite sajt."
+      },
+      {
+        "h": "Usluge",
+        "p": "Opseg, rokovi i cene projekata definišu se posebnim dogovorom ili ponudom pre početka rada."
+      },
+      {
+        "h": "Intelektualna svojina",
+        "p": "Sadržaj i brending na ovom sajtu pripadaju Viral Vibe-u, osim ako nije drugačije navedeno. IP klijentskih projekata uređuje se ugovorom."
+      },
+      {
+        "h": "Ograničenje odgovornosti",
+        "p": "Trudimo se da informacije budu tačne, ali nismo odgovorni za indirektnu štetu nastalu korišćenjem sajta."
+      },
+      {
+        "h": "Izmene",
+        "p": "Uslove možemo povremeno ažurirati. Nastavak korišćenja znači da prihvatate izmene."
+      },
+      {
+        "h": "Merodavno pravo",
+        "p": "Ovi uslovi se tumače u skladu sa pravom Republike Srbije."
+      }
+    ]
+  },
+  "seo": {
+    "keywords": "digitalna agencija Niš, izrada sajtova Srbija, e-commerce, SEO, društvene mreže, web aplikacije, Viral Vibe"
+  }
+}
