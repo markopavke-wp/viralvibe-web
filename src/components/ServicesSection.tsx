@@ -38,18 +38,25 @@ function StackCard({
     index === 0 ? [0, 1] : [enterStart, enterEnd],
     index === 0 ? ["0%", "0%"] : ["108%", "0%"]
   );
-  // Covered cards fade out; last card stays fully visible until section ends
+  // Covered cards fade out fast so previous text doesn't linger over the next card
   const opacity = useTransform(
     progress,
     isLast
       ? [0, 1]
-      : [exitStart, exitStart + (exitEnd - exitStart) * 0.55, exitEnd],
-    isLast ? [1, 1] : [1, 0.35, 0]
+      : [
+          exitStart,
+          exitStart + (exitEnd - exitStart) * 0.15,
+          exitStart + (exitEnd - exitStart) * 0.28,
+          exitEnd,
+        ],
+    isLast ? [1, 1] : [1, 0.2, 0, 0]
   );
   const scale = useTransform(
     progress,
-    isLast ? [0, 1] : [exitStart, exitEnd],
-    isLast ? [1, 1] : [1, 0.96]
+    isLast
+      ? [0, 1]
+      : [exitStart, exitStart + (exitEnd - exitStart) * 0.25, exitEnd],
+    isLast ? [1, 1] : [1, 0.97, 0.95]
   );
 
   return (
