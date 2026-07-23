@@ -27,8 +27,8 @@ function StackCard({
 }) {
   // n cards need (n - 1) transitions — using `total` skips/clips the last card
   const steps = Math.max(total - 1, 1);
-  // First part of each step = empty scroll (card stays), then transition
-  const hold = 0.58;
+  // First part of each step = empty scroll (card stays readable), then transition
+  const hold = 0.78;
   const isLast = index === total - 1;
 
   const segStart = index === 0 ? 0 : (index - 1) / steps;
@@ -150,7 +150,7 @@ export function ServicesSection({
       ref={sectionRef}
       id="services"
       className="relative"
-      style={{ height: `${Math.max(steps * 105 + 80, 420)}vh` }}
+      style={{ height: `${Math.max(steps * 125 + 100, 480)}vh` }}
     >
       <div className="sticky top-0 flex min-h-[100svh] flex-col justify-center py-20 md:py-24">
         <div className="container-vv">
